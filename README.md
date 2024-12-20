@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phon Rattanaphichai</h1>
-<h3 align="center">A student in computer engineer from Thailand.</h3>
+<h3 align="center">A computer engineer student from Thailand.</h3>
 
 - 🌱 I’m currently learning **React**
 
