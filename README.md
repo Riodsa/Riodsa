@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phon Rattanaphichai</h1>
 <h3 align="center">A computer engineer student from Thailand.</h3>
 
-- 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **titan092549@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
